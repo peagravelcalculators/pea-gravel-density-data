@@ -1,0 +1,8 @@
+material,description,lb_per_cubic_foot,lb_per_cubic_yard,us_tons_per_cubic_yard,kg_per_cubic_metre,tonnes_per_cubic_metre,condition
+Pea gravel,"3/8 in, rounded, washed",100,2700,1.35,1602,1.60,"dry, loose, uncompacted"
+Crushed stone #57,"3/4 in, angular, open graded",104,2808,1.40,1666,1.67,"dry, loose, uncompacted"
+Crushed stone #411,"3/4 in to fines, angular, dense graded",100,2700,1.35,1602,1.60,"dry, loose, uncompacted"
+River rock,"1 in to 3 in, rounded",100,2700,1.35,1602,1.60,"dry, loose, uncompacted"
+Decomposed granite,"1/4 in minus, angular with fines",104,2808,1.40,1666,1.67,"dry, loose, uncompacted"
+Marble chips,"1/2 in, angular, white",96,2592,1.30,1538,1.54,"dry, loose, uncompacted"
+Lava rock,"3/4 in, vesicular volcanic",52,1404,0.70,833,0.83,"dry, loose, uncompacted"
